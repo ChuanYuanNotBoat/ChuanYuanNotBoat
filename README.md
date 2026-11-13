@@ -1,7 +1,7 @@
 # 
 
 <p align="center">
-  Rhythm Games · Tool Development · Data Analysis
+  Rhythm Games · Tool Development · Game Ecosystems
 </p>
 
 <p align="center">
@@ -20,11 +20,22 @@
 
 ### Projects
 
-- **Malody Tools** — Data collection, ranking analysis and API services.
-- **Malody Catch Editor** — A C++ / Qt beatmap editor for Catch mode.
-- **AutoTimingCore** — Audio onset detection and rhythm analysis.
-- **Minecraft Server Manager** — Server monitoring and management tools.
+- **[Catch Chart Editor](https://github.com/ChuanYuanNotBoat/Catch_Chart_Editor)** — Ongoing development of a chart editor for Malody Catch.
+- **[Malody Data Studio](https://github.com/ChuanYuanNotBoat/Malody_Data_Studio)** — Data collection, exploration and services around the Malody ecosystem.
+- **[MalodyCatch2CTB](https://github.com/ChuanYuanNotBoat/MalodyCatch2CTB)** — Tools for interoperability between Malody Catch and osu! Catch.
+- **[LItemFinder](https://github.com/ChuanYuanNotBoat/LItemFinder)** — A Minecraft client-side inventory indexing and item-finding project.
+- **[Minecraft Server Manager](https://github.com/ChuanYuanNotBoat/Minecraft-Server-Manager)** — Tools for querying and monitoring Minecraft servers.
+
+### Malody
+
+Actively involved in the **Malody / Malody V ecosystem**, with a particular focus on Catch mode, editor tooling and supporting infrastructure.
+
+My work around Malody includes maintaining and extending Catch-related tools, working on Malody V functionality, improving chart workflows, and building utilities for chart conversion, data collection and analysis.
+
+Some of these projects have grown into a small collection of interoperable tools rather than isolated applications.
 
 ### About
 
-Building tools for rhythm games, exploring game development, and turning ideas into software.
+Rhythm game player and developer.
+
+I enjoy building practical tools, improving existing software, and working on the less visible pieces that make an ecosystem easier to develop, maintain and use.
